@@ -2,7 +2,7 @@
 
 ## About The Project
 
-A mock up website build for a fake startup named, Purrfect, a tinder like app but for cats.
+A mock up website built for a fake startup named, Purrfect, a tinder like app but for cats.
 This website was just a project for myself to improve my Bootstrap and HTML/CSS skills.
 
 ## Built With
