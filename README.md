@@ -10,9 +10,9 @@ This website was just a project for myself to improve my Bootstrap and HTML/CSS 
 This project was built by the following tools.
 
 * [Bootstrap](https://getbootstrap.com)
-* [HTML]
-* [CSS]
-* [JS]
+* HTML
+* CSS
+* JS
 
 ## Contact
 
