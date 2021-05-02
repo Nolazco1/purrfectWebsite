@@ -7,7 +7,7 @@ This website was just a project for myself to improve my Bootstrap and HTML/CSS 
 
 ## Built With
 
-This project was built by the following tools.
+This project was built with the following tools.
 
 * [Bootstrap](https://getbootstrap.com)
 * HTML
